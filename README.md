@@ -1,9 +1,10 @@
 # Project
+Implementation of algorithms like
+1. Travelling Salesman Problem
+2. Prim's minumum spanning tree
+3. Breadth first and depth first search
+4. Strongly connected components(Kosaraju's algorithm)
+5. Knapsack Problem
+6. Merge Sort
 
-My implementation of the game asteroids in python
 
-I created this game as a part of coursework in coursera's "Introduction to interactive Programming in Python". This was the final project.
-You can play the game at [PlayAsteroids](http://www.codeskulptor.org/#user38_KvzkRB4CFk_3.py), click on the play button to launch the game.
-## Built With
-
-* [CodeSkulptor](http://www.codeskulptor.org)
